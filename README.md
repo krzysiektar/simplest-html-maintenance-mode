@@ -24,7 +24,7 @@ It doesn't get any simpler than that. Simple and so useful ✨
 ---
 
 1. Download <a href="https://github.com/krzysiektar/simplest-html-maintenance-mode/blob/main/index.html">`index.html`</a> file.
-2. If you need a language other than EN, see the <a href="#">langs</a> directory
+2. If you need a language other than EN, see the <a href="https://github.com/krzysiektar/simplest-html-maintenance-mode/tree/main/langs">`langs`</a> directory
 3. Upload the file to a public folder on the server via FTP.
 4. Make sure the <a href="https://github.com/krzysiektar/simplest-html-maintenance-mode/blob/main/index.html">`index.html`</a> file is loaded before your `index.php` file - you can temporarily rename the file.
 5. Done! Your website is now in maintenance mode.
